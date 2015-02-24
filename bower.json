@@ -24,5 +24,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "badwords-list": "imposibrus/badwords-list#~0.0.0"
+  }
 }
