@@ -1,0 +1,28 @@
+{
+  "name": "badwords",
+  "version": "0.6.1",
+  "homepage": "https://github.com/imposibrus/badwords",
+  "authors": [
+    "imposibrus <imposibrus@gmail.com>"
+  ],
+  "description": "A javascript filter for badwords",
+  "main": "lib/badwords.bower.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "curse",
+    "words",
+    "profanity",
+    "filter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
